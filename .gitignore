@@ -1,0 +1,6 @@
+﻿.idea/*
+.venv/*
+app/local_images/tmp/*
+app/local_images/out/*
+app/fastapi_images/*/*
+__pycache__/
